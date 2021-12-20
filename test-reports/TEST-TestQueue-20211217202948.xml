@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<testsuite name="TestQueue-20211217202948" tests="7" time="0.001" failures="0" errors="0">
+	<testcase classname="TestQueue" name="test_back" time="0.001"/>
+	<testcase classname="TestQueue" name="test_dequeue" time="0.000"/>
+	<testcase classname="TestQueue" name="test_enqueue" time="0.000"/>
+	<testcase classname="TestQueue" name="test_front" time="0.000"/>
+	<testcase classname="TestQueue" name="test_isEmpty" time="0.000"/>
+	<testcase classname="TestQueue" name="test_isNotEmpty" time="0.000"/>
+	<testcase classname="TestQueue" name="test_size" time="0.000"/>
+	<system-out><![CDATA[]]></system-out>
+	<system-err><![CDATA[]]></system-err>
+</testsuite>
