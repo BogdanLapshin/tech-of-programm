@@ -1,1 +1,0 @@
-# tech-of-programming
