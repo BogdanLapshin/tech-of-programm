@@ -19,7 +19,7 @@ pipeline {
             steps {
                 echo "building..."
                 echo "building completed"
-                echo "kovalskyi ;)"
+                echo "lapshin ;)"
             }
         }
         stage('test') {
@@ -35,7 +35,7 @@ pipeline {
                     echo "finally..."
                 }
                 failure {
-                    echo "what? ?!?!? !?"
+                    echo "something went wrong"
                 }
             }
         }
